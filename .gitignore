@@ -1,0 +1,54 @@
+# Ignore binary files
+*.exe
+*.dll
+*.lib
+*.app
+*.dylib
+*.so
+*.a
+
+# Ignore intermediate build files and folders
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore compiled shader and cache data
+*.pch
+*.obj
+*.log
+*.vspscc
+*.sdf
+*.opensdf
+*.VC.db
+
+# Ignore user-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore crash reports and temp files
+*.tmp
+*.bak
+*.backup
+*.cache
+
+# Ignore generated project files (optional, can regenerate)
+*.xcodeproj
+*.xcworkspace
+*.sln
+
+# Ignore Mac OS or Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore Git-specific files
+.git/
+
+# Ignore optional: Steam SDK (if used and not public)
+Plugins/OnlineSubsystemSteam/Source/ThirdParty/Steamworks/
