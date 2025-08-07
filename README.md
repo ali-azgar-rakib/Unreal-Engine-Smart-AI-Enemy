@@ -1,9 +1,6 @@
 # Advanced Enemy AI System – Unreal Engine
 
-## 📌 Project Status
-
-🚧 **Work in Progress** 
----
+![Work in Progress](https://img.shields.io/badge/Status-Work%20in%20Progress-orange)
 
 ## 🤖 AI Behavior Features
 
